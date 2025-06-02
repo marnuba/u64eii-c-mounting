@@ -1,5 +1,4 @@
-# u64eii-c-mounting
-Ultimate 64 Elite II mounting brackets for the original C64c case.
+# Ultimate 64 Elite II mounting brackets for the original C64c case.
 
 Can be printed without support when laying on the side. I used PLA which appears to work just fine.
 
